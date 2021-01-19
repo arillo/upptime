@@ -6,7 +6,10 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: Arillo
     url: https://www.arillo.net
-
+  - name: Unibz
+    url: https://www.unibz.it
+  - name: Unibz guides
+    url: https://guide.unibz.it
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: uptime.arillo.de
@@ -20,6 +23,8 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER
+    - title: Arillo
+      href: https://www.arillo.net/
 i18n:
   footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
