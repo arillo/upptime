@@ -9,11 +9,11 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  # cname: demo.upptime.js.org
+  cname: uptime.arillo.de
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Arillo uptimes
+  logoUrl: https://assets.arillo.net/logo.svg
+  name: "Arillo's uptimes"
   introTitle: "**Arillo's** status of client websites."
   introMessage: This is a status page which uses **real-time** data.
   navbar:
