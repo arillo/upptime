@@ -4,12 +4,14 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Arillo
+  - name: arillo.net
     url: https://www.arillo.net
-  - name: Unibz
+  - name: unibz.it
     url: https://www.unibz.it
-  - name: Unibz guides
+  - name: guide.unibz.it
     url: https://guide.unibz.it
+  - name: alpen-paesse.ch
+    url: https://alpen-paesse.ch/
   - name: Spacedeck wifo
     url: $SPACEDECK_WIFO
 status-website:
