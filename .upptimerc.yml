@@ -7,9 +7,9 @@ sites:
   - name: arillo.net
     url: https://www.arillo.net
   - name: unibz.it
-    url: https://www.unibz.it
+    url: https://www.unibz.it/health/check
   - name: guide.unibz.it
-    url: https://guide.unibz.it
+    url: https://guide.unibz.it/health/check
   - name: alpen-paesse.ch
     url: https://alpen-paesse.ch/
   - name: Spacedeck wifo
