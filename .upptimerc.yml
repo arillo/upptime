@@ -10,6 +10,8 @@ sites:
     url: https://www.unibz.it
   - name: Unibz guides
     url: https://guide.unibz.it
+  - name: Spacedeck wifo
+    url: $SPACEDECK_WIFO
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: uptime.arillo.de
