@@ -4,10 +4,10 @@
     "url": "https://www.arillo.net",
     "icon": "https://favicons.githubusercontent.com/www.arillo.net",
     "slug": "arillo-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1021,
@@ -15,7 +15,9 @@
     "timeWeek": 1040,
     "timeMonth": 1021,
     "timeYear": 1021,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-15": 1
+    }
   },
   {
     "name": "unibz.it",
@@ -58,9 +60,9 @@
     "url": "https://alpen-paesse.ch/",
     "icon": "https://favicons.githubusercontent.com/alpen-paesse.ch",
     "slug": "alpen-paesse-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +71,9 @@
     "timeWeek": 1072,
     "timeMonth": 1064,
     "timeYear": 1064,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-15": 0
+    }
   },
   {
     "name": "Spacedeck wifo",
