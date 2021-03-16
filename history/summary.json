@@ -4,18 +4,19 @@
     "url": "https://www.arillo.net",
     "icon": "https://favicons.githubusercontent.com/www.arillo.net",
     "slug": "arillo-net",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.87%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.97%",
     "time": 951,
     "timeDay": 845,
     "timeWeek": 806,
     "timeMonth": 894,
     "timeYear": 951,
     "dailyMinutesDown": {
+      "2021-03-16": 1,
       "2021-03-10": 13,
       "2021-02-15": 5
     }
@@ -61,9 +62,9 @@
     "url": "https://alpen-paesse.ch/",
     "icon": "https://favicons.githubusercontent.com/alpen-paesse.ch",
     "slug": "alpen-paesse-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.88%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
@@ -73,6 +74,7 @@
     "timeMonth": 935,
     "timeYear": 995,
     "dailyMinutesDown": {
+      "2021-03-16": 0,
       "2021-03-10": 12,
       "2021-02-15": 4
     }
