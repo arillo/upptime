@@ -6,6 +6,8 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: arillo.net
     url: https://www.arillo.net
+  - name: Git
+    url: $GITLAB
   - name: unibz.it
     url: https://www.unibz.it/health/check
   - name: guide.unibz.it
