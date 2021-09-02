@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/www.arillo.net",
     "slug": "arillo-net",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "99.64%",
     "uptimeWeek": "99.88%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "99.92%",
+    "uptimeYear": "99.93%",
     "time": 983,
     "timeDay": 864,
     "timeWeek": 1018,
@@ -40,9 +40,9 @@
     "url": "$GITLAB",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.84%",
@@ -52,6 +52,7 @@
     "timeMonth": 1578,
     "timeYear": 1578,
     "dailyMinutesDown": {
+      "2021-09-02": 0,
       "2021-08-31": 13
     }
   },
