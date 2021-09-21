@@ -41,9 +41,9 @@
     "url": "$GITLAB",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.90%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.66%",
@@ -53,6 +53,7 @@
     "timeMonth": 1554,
     "timeYear": 1554,
     "dailyMinutesDown": {
+      "2021-09-21": 0,
       "2021-09-14": 10,
       "2021-09-02": 98,
       "2021-08-31": 13
