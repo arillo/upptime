@@ -13,7 +13,7 @@
     "time": 1004,
     "timeDay": 1155,
     "timeWeek": 1179,
-    "timeMonth": 1109,
+    "timeMonth": 1122,
     "timeYear": 1004,
     "dailyMinutesDown": {
       "2021-11-10": 16,
@@ -41,9 +41,9 @@
     "url": "$GITLAB",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.14%",
     "uptimeYear": "99.41%",
@@ -53,6 +53,7 @@
     "timeMonth": 1732,
     "timeYear": 1629,
     "dailyMinutesDown": {
+      "2021-11-10": 0,
       "2021-10-26": 61,
       "2021-10-25": 54,
       "2021-10-20": 198,
@@ -115,7 +116,7 @@
     "time": 1034,
     "timeDay": 1243,
     "timeWeek": 1171,
-    "timeMonth": 1112,
+    "timeMonth": 1120,
     "timeYear": 1034,
     "dailyMinutesDown": {
       "2021-11-10": 16,
