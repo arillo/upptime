@@ -75,36 +75,40 @@
     "url": "https://www.unibz.it/health/check",
     "icon": "https://favicons.githubusercontent.com/www.unibz.it",
     "slug": "unibz-it",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1925,
-    "timeDay": 2286,
-    "timeWeek": 2328,
-    "timeMonth": 2270,
-    "timeYear": 1925,
-    "dailyMinutesDown": {}
+    "time": 1921,
+    "timeDay": 1396,
+    "timeWeek": 2101,
+    "timeMonth": 2215,
+    "timeYear": 1921,
+    "dailyMinutesDown": {
+      "2022-01-12": 0
+    }
   },
   {
     "name": "guide.unibz.it",
     "url": "https://guide.unibz.it/health/check",
     "icon": "https://favicons.githubusercontent.com/guide.unibz.it",
     "slug": "guide-unibz-it",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1698,
-    "timeDay": 1711,
-    "timeWeek": 1849,
-    "timeMonth": 1587,
-    "timeYear": 1698,
-    "dailyMinutesDown": {}
+    "time": 1695,
+    "timeDay": 1182,
+    "timeWeek": 1699,
+    "timeMonth": 1558,
+    "timeYear": 1695,
+    "dailyMinutesDown": {
+      "2022-01-12": 0
+    }
   },
   {
     "name": "alpen-paesse.ch",
