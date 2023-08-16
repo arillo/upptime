@@ -63,19 +63,19 @@
     "url": "https://www.unibz.it/health/check",
     "icon": "https://icons.duckduckgo.com/ip3/www.unibz.it.ico",
     "slug": "unibz-it",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1758,
-    "timeDay": 1197,
-    "timeWeek": 1680,
-    "timeMonth": 1782,
-    "timeYear": 1818,
+    "time": 1761,
+    "timeDay": 1731,
+    "timeWeek": 1805,
+    "timeMonth": 1813,
+    "timeYear": 1821,
     "dailyMinutesDown": {
-      "2023-08-16": 0
+      "2023-08-16": 7
     }
   },
   {
