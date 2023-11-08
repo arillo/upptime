@@ -26,7 +26,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "git",
     "status": "up",
-    "uptime": "96.05%",
+    "uptime": "96.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.46%",
@@ -58,9 +58,9 @@
     "url": "https://www.unibz.it/health/check",
     "icon": "https://icons.duckduckgo.com/ip3/www.unibz.it.ico",
     "slug": "unibz-it",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 2084,
     "timeMonth": 2246,
     "timeYear": 2016,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-08": 0
+    }
   },
   {
     "name": "guide.unibz.it",
