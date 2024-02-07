@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1026,
-    "timeDay": 1110,
-    "timeWeek": 953,
-    "timeMonth": 998,
-    "timeYear": 978,
+    "time": 1027,
+    "timeDay": 1312,
+    "timeWeek": 1019,
+    "timeMonth": 1006,
+    "timeYear": 979,
     "dailyMinutesDown": {
       "2023-11-09": 120
     }
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
-    "time": 1646,
-    "timeDay": 1855,
-    "timeWeek": 1569,
-    "timeMonth": 1659,
+    "time": 1648,
+    "timeDay": 2209,
+    "timeWeek": 1670,
+    "timeMonth": 1678,
     "timeYear": 1623,
     "dailyMinutesDown": {
       "2023-12-04": 33,
@@ -62,11 +62,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2053,
-    "timeDay": 2114,
-    "timeWeek": 2261,
+    "time": 2054,
+    "timeDay": 2405,
+    "timeWeek": 2296,
     "timeMonth": 2341,
-    "timeYear": 2145,
+    "timeYear": 2147,
     "dailyMinutesDown": {}
   },
   {
@@ -76,17 +76,16 @@
     "slug": "guide-unibz-it",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 1913,
-    "timeDay": 8461,
-    "timeWeek": 4091,
-    "timeMonth": 2929,
-    "timeYear": 2015,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1911,
+    "timeDay": 8502,
+    "timeWeek": 4112,
+    "timeMonth": 2935,
+    "timeYear": 2012,
     "dailyMinutesDown": {
-      "2024-02-06": 12,
       "2023-06-16": 16
     }
   },
@@ -102,10 +101,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 2031,
-    "timeDay": 2241,
-    "timeWeek": 2011,
-    "timeMonth": 2153,
-    "timeYear": 2025,
+    "timeDay": 2451,
+    "timeWeek": 2103,
+    "timeMonth": 2160,
+    "timeYear": 2026,
     "dailyMinutesDown": {
       "2023-11-09": 120
     }
@@ -122,10 +121,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 829,
-    "timeDay": 985,
-    "timeWeek": 771,
-    "timeMonth": 833,
-    "timeYear": 823,
+    "timeDay": 937,
+    "timeWeek": 805,
+    "timeMonth": 831,
+    "timeYear": 824,
     "dailyMinutesDown": {
       "2023-11-14": 134
     }
