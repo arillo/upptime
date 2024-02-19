@@ -6,17 +6,16 @@
     "slug": "arillo-net",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.98%",
     "time": 1028,
-    "timeDay": 1044,
-    "timeWeek": 928,
-    "timeMonth": 969,
+    "timeDay": 963,
+    "timeWeek": 953,
+    "timeMonth": 979,
     "timeYear": 978,
     "dailyMinutesDown": {
-      "2024-02-18": 14,
       "2023-11-09": 120
     }
   },
@@ -32,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
     "time": 1637,
-    "timeDay": 2036,
-    "timeWeek": 1532,
-    "timeMonth": 1599,
-    "timeYear": 1623,
+    "timeDay": 2153,
+    "timeWeek": 1605,
+    "timeMonth": 1623,
+    "timeYear": 1624,
     "dailyMinutesDown": {
       "2023-12-04": 33,
       "2023-10-31": 144,
@@ -63,11 +62,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2070,
-    "timeDay": 2615,
-    "timeWeek": 2288,
-    "timeMonth": 2342,
-    "timeYear": 2158,
+    "time": 2076,
+    "timeDay": 4404,
+    "timeWeek": 2601,
+    "timeMonth": 2414,
+    "timeYear": 2165,
     "dailyMinutesDown": {}
   },
   {
@@ -81,11 +80,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1920,
-    "timeDay": 1641,
-    "timeWeek": 1887,
-    "timeMonth": 2683,
-    "timeYear": 2014,
+    "time": 1921,
+    "timeDay": 1718,
+    "timeWeek": 1864,
+    "timeMonth": 2675,
+    "timeYear": 2015,
     "dailyMinutesDown": {
       "2023-06-16": 16
     }
@@ -101,10 +100,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 2032,
-    "timeDay": 2296,
-    "timeWeek": 2008,
-    "timeMonth": 2090,
+    "time": 2033,
+    "timeDay": 2190,
+    "timeWeek": 2041,
+    "timeMonth": 2099,
     "timeYear": 2024,
     "dailyMinutesDown": {
       "2023-11-09": 120
@@ -122,10 +121,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 829,
-    "timeDay": 1069,
-    "timeWeek": 746,
-    "timeMonth": 787,
-    "timeYear": 821,
+    "timeDay": 969,
+    "timeWeek": 774,
+    "timeMonth": 796,
+    "timeYear": 822,
     "dailyMinutesDown": {
       "2023-11-14": 134
     }
