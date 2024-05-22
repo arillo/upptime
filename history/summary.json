@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 987,
-    "timeDay": 703,
-    "timeWeek": 869,
-    "timeMonth": 938,
+    "timeDay": 1068,
+    "timeWeek": 853,
+    "timeMonth": 940,
     "timeYear": 958,
     "dailyMinutesDown": {
       "2023-11-09": 120
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 1642,
-    "timeDay": 1647,
-    "timeWeek": 1772,
-    "timeMonth": 1835,
-    "timeYear": 1648,
+    "timeDay": 1572,
+    "timeWeek": 1726,
+    "timeMonth": 1837,
+    "timeYear": 1638,
     "dailyMinutesDown": {
       "2024-03-06": 35,
       "2023-12-04": 33,
@@ -55,18 +55,16 @@
     "slug": "unibz-it",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2348,
-    "timeDay": 6659,
-    "timeWeek": 5757,
-    "timeMonth": 3545,
-    "timeYear": 2483,
-    "dailyMinutesDown": {
-      "2024-05-21": 5
-    }
+    "time": 2349,
+    "timeDay": 6814,
+    "timeWeek": 5750,
+    "timeMonth": 3550,
+    "timeYear": 2482,
+    "dailyMinutesDown": {}
   },
   {
     "name": "guide.unibz.it",
@@ -75,17 +73,16 @@
     "slug": "guide-unibz-it",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1996,
-    "timeDay": 1331,
-    "timeWeek": 1770,
-    "timeMonth": 1940,
-    "timeYear": 2100,
+    "time": 1998,
+    "timeDay": 1292,
+    "timeWeek": 1784,
+    "timeMonth": 1950,
+    "timeYear": 2102,
     "dailyMinutesDown": {
-      "2024-05-21": 5,
       "2023-06-16": 16
     }
   },
@@ -101,10 +98,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 2027,
-    "timeDay": 1740,
-    "timeWeek": 1952,
-    "timeMonth": 1994,
-    "timeYear": 2031,
+    "timeDay": 2025,
+    "timeWeek": 1930,
+    "timeMonth": 2002,
+    "timeYear": 2030,
     "dailyMinutesDown": {
       "2023-11-09": 120
     }
@@ -120,10 +117,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 819,
-    "timeDay": 670,
-    "timeWeek": 698,
-    "timeMonth": 757,
+    "time": 818,
+    "timeDay": 799,
+    "timeWeek": 681,
+    "timeMonth": 759,
     "timeYear": 809,
     "dailyMinutesDown": {
       "2023-11-14": 134
