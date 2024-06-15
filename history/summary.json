@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 968,
-    "timeDay": 696,
-    "timeWeek": 873,
-    "timeMonth": 934,
+    "timeDay": 833,
+    "timeWeek": 877,
+    "timeMonth": 923,
     "timeYear": 957,
     "dailyMinutesDown": {
       "2023-11-09": 120
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "git",
     "status": "up",
-    "uptime": "96.89%",
+    "uptime": "96.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 1639,
-    "timeDay": 1374,
-    "timeWeek": 1663,
-    "timeMonth": 1654,
+    "timeDay": 1147,
+    "timeWeek": 1624,
+    "timeMonth": 1631,
     "timeYear": 1636,
     "dailyMinutesDown": {
       "2024-03-06": 35,
@@ -58,11 +58,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2386,
-    "timeDay": 2229,
-    "timeWeek": 2581,
-    "timeMonth": 3666,
-    "timeYear": 2526,
+    "time": 2388,
+    "timeDay": 2633,
+    "timeWeek": 2592,
+    "timeMonth": 3669,
+    "timeYear": 2529,
     "dailyMinutesDown": {}
   },
   {
@@ -76,14 +76,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2021,
-    "timeDay": 1585,
-    "timeWeek": 2954,
-    "timeMonth": 2156,
-    "timeYear": 2141,
-    "dailyMinutesDown": {
-      "2023-06-16": 16
-    }
+    "time": 2025,
+    "timeDay": 4024,
+    "timeWeek": 3332,
+    "timeMonth": 2229,
+    "timeYear": 2149,
+    "dailyMinutesDown": {}
   },
   {
     "name": "alpen-paesse.ch",
@@ -97,10 +95,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 2027,
-    "timeDay": 1821,
-    "timeWeek": 1995,
-    "timeMonth": 2038,
-    "timeYear": 2036,
+    "timeDay": 1963,
+    "timeWeek": 1906,
+    "timeMonth": 2031,
+    "timeYear": 2037,
     "dailyMinutesDown": {
       "2023-11-09": 120
     }
@@ -116,10 +114,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 815,
-    "timeDay": 644,
-    "timeWeek": 710,
-    "timeMonth": 739,
+    "time": 814,
+    "timeDay": 619,
+    "timeWeek": 694,
+    "timeMonth": 729,
     "timeYear": 792,
     "dailyMinutesDown": {
       "2023-11-14": 134
