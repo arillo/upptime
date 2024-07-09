@@ -1,7 +1,7 @@
 url: https://www.unibz.it/health/check
-status: down
-code: 502
-responseTime: 17634
-lastUpdated: 2024-07-09T15:46:35.998Z
+status: up
+code: 200
+responseTime: 5477
+lastUpdated: 2024-07-09T15:52:02.932Z
 startTime: 2021-01-25T19:55:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
