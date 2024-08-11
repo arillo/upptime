@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 960,
-    "timeDay": 948,
+    "timeDay": 847,
     "timeWeek": 1023,
-    "timeMonth": 971,
+    "timeMonth": 974,
     "timeYear": 966,
     "dailyMinutesDown": {
       "2023-11-09": 120
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 1652,
-    "timeDay": 1928,
-    "timeWeek": 1761,
-    "timeMonth": 1809,
+    "timeDay": 1787,
+    "timeWeek": 1787,
+    "timeMonth": 1815,
     "timeYear": 1679,
     "dailyMinutesDown": {
       "2024-03-06": 35,
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2530,
-    "timeDay": 2046,
-    "timeWeek": 2517,
-    "timeMonth": 2741,
-    "timeYear": 2715,
+    "time": 2532,
+    "timeDay": 2708,
+    "timeWeek": 2508,
+    "timeMonth": 2721,
+    "timeYear": 2718,
     "dailyMinutesDown": {
       "2024-07-01": 28
     }
@@ -77,11 +77,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2085,
-    "timeDay": 1383,
-    "timeWeek": 2154,
-    "timeMonth": 2524,
-    "timeYear": 2248,
+    "time": 2081,
+    "timeDay": 1456,
+    "timeWeek": 2072,
+    "timeMonth": 2331,
+    "timeYear": 2247,
     "dailyMinutesDown": {}
   },
   {
@@ -95,11 +95,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 2031,
-    "timeDay": 2031,
-    "timeWeek": 1984,
-    "timeMonth": 2068,
-    "timeYear": 2058,
+    "time": 2035,
+    "timeDay": 2419,
+    "timeWeek": 2044,
+    "timeMonth": 2092,
+    "timeYear": 2060,
     "dailyMinutesDown": {
       "2023-11-09": 120
     }
@@ -116,10 +116,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 803,
-    "timeDay": 750,
-    "timeWeek": 778,
-    "timeMonth": 770,
-    "timeYear": 796,
+    "timeDay": 585,
+    "timeWeek": 760,
+    "timeMonth": 768,
+    "timeYear": 795,
     "dailyMinutesDown": {
       "2023-11-14": 134
     }
