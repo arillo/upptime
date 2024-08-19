@@ -4,10 +4,10 @@
     "url": "https://www.arillo.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.arillo.net.ico",
     "slug": "arillo-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 962,
@@ -16,6 +16,7 @@
     "timeMonth": 1001,
     "timeYear": 967,
     "dailyMinutesDown": {
+      "2024-08-19": 1,
       "2023-11-09": 120
     }
   },
@@ -26,9 +27,9 @@
     "slug": "git",
     "status": "up",
     "uptime": "97.07%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.49%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.51%",
     "uptimeYear": "99.81%",
     "time": 1653,
     "timeDay": 1672,
@@ -36,7 +37,6 @@
     "timeMonth": 1758,
     "timeYear": 1684,
     "dailyMinutesDown": {
-      "2024-08-19": 5,
       "2024-08-11": 217,
       "2024-03-06": 35,
       "2023-12-04": 33,
@@ -90,9 +90,9 @@
     "url": "https://alpen-paesse.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/alpen-paesse.ch.ico",
     "slug": "alpen-paesse-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -102,6 +102,7 @@
     "timeMonth": 2111,
     "timeYear": 2059,
     "dailyMinutesDown": {
+      "2024-08-19": 0,
       "2023-11-09": 120
     }
   },
