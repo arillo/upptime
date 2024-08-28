@@ -10,11 +10,11 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 978,
-    "timeDay": 828,
-    "timeWeek": 1385,
-    "timeMonth": 1170,
-    "timeYear": 988,
+    "time": 977,
+    "timeDay": 668,
+    "timeWeek": 1071,
+    "timeMonth": 1166,
+    "timeYear": 986,
     "dailyMinutesDown": {
       "2024-08-21": 17,
       "2023-11-09": 120
@@ -32,10 +32,10 @@
     "uptimeMonth": "99.51%",
     "uptimeYear": "99.81%",
     "time": 1657,
-    "timeDay": 1432,
-    "timeWeek": 1737,
-    "timeMonth": 1758,
-    "timeYear": 1687,
+    "timeDay": 1013,
+    "timeWeek": 1651,
+    "timeMonth": 1749,
+    "timeYear": 1686,
     "dailyMinutesDown": {
       "2024-08-11": 217,
       "2024-03-06": 35,
@@ -58,11 +58,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2552,
-    "timeDay": 1754,
-    "timeWeek": 2426,
-    "timeMonth": 2617,
-    "timeYear": 2700,
+    "time": 2554,
+    "timeDay": 2600,
+    "timeWeek": 2482,
+    "timeMonth": 2615,
+    "timeYear": 2704,
     "dailyMinutesDown": {
       "2024-07-01": 28
     }
@@ -79,10 +79,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2091,
-    "timeDay": 1220,
-    "timeWeek": 1512,
-    "timeMonth": 1857,
-    "timeYear": 2246,
+    "timeDay": 1697,
+    "timeWeek": 1545,
+    "timeMonth": 1774,
+    "timeYear": 2255,
     "dailyMinutesDown": {}
   },
   {
@@ -97,9 +97,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 2052,
-    "timeDay": 1827,
-    "timeWeek": 2369,
-    "timeMonth": 2253,
+    "timeDay": 1963,
+    "timeWeek": 2273,
+    "timeMonth": 2249,
     "timeYear": 2072,
     "dailyMinutesDown": {
       "2024-08-21": 16,
@@ -118,10 +118,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 805,
-    "timeDay": 675,
-    "timeWeek": 970,
+    "timeDay": 677,
+    "timeWeek": 924,
     "timeMonth": 807,
-    "timeYear": 799,
+    "timeYear": 798,
     "dailyMinutesDown": {
       "2023-11-14": 134
     }
