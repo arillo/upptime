@@ -68,18 +68,20 @@
     "url": "https://guide.unibz.it/health/check",
     "icon": "https://icons.duckduckgo.com/ip3/guide.unibz.it.ico",
     "slug": "guide-unibz-it",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2189,
-    "timeDay": 1442,
-    "timeWeek": 1789,
-    "timeMonth": 1980,
-    "timeYear": 2214,
-    "dailyMinutesDown": {}
+    "time": 2219,
+    "timeDay": 8846,
+    "timeWeek": 3597,
+    "timeMonth": 2426,
+    "timeYear": 2251,
+    "dailyMinutesDown": {
+      "2024-11-20": 0
+    }
   },
   {
     "name": "alpen-paesse.ch",
