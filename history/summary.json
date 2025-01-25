@@ -4,11 +4,11 @@
     "url": "https://www.arillo.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.arillo.net.ico",
     "slug": "arillo-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 998,
     "timeDay": 911,
@@ -16,6 +16,7 @@
     "timeMonth": 1060,
     "timeYear": 1007,
     "dailyMinutesDown": {
+      "2025-01-25": 1,
       "2025-01-23": 33,
       "2024-10-22": 17,
       "2024-08-21": 17
@@ -92,9 +93,9 @@
     "url": "https://alpen-paesse.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/alpen-paesse.ch.ico",
     "slug": "alpen-paesse-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
@@ -104,6 +105,7 @@
     "timeMonth": 2501,
     "timeYear": 2232,
     "dailyMinutesDown": {
+      "2025-01-25": 0,
       "2025-01-23": 32,
       "2024-08-21": 16
     }
