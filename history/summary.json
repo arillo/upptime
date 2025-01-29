@@ -4,11 +4,11 @@
     "url": "https://www.arillo.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.arillo.net.ico",
     "slug": "arillo-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 1000,
     "timeDay": 736,
@@ -16,6 +16,7 @@
     "timeMonth": 1049,
     "timeYear": 1009,
     "dailyMinutesDown": {
+      "2025-01-29": 1,
       "2025-01-23": 33,
       "2024-10-22": 17,
       "2024-08-21": 17
@@ -92,9 +93,9 @@
     "url": "https://alpen-paesse.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/alpen-paesse.ch.ico",
     "slug": "alpen-paesse-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
@@ -104,6 +105,7 @@
     "timeMonth": 2527,
     "timeYear": 2241,
     "dailyMinutesDown": {
+      "2025-01-29": 1,
       "2025-01-23": 32,
       "2024-08-21": 16
     }
@@ -115,17 +117,17 @@
     "slug": "spacedeck-wifo",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "95.15%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.98%",
     "time": 802,
     "timeDay": 625,
     "timeWeek": 717,
     "timeMonth": 786,
     "timeYear": 798,
     "dailyMinutesDown": {
-      "2025-01-29": 1,
+      "2025-01-29": 70,
       "2024-12-05": 16
     }
   }
