@@ -12,7 +12,7 @@
     "uptimeYear": "99.97%",
     "time": 1016,
     "timeDay": 1411,
-    "timeWeek": 990,
+    "timeWeek": 1000,
     "timeMonth": 1150,
     "timeYear": 1026,
     "dailyMinutesDown": {
@@ -39,7 +39,7 @@
     "time": 1733,
     "timeDay": 1933,
     "timeWeek": 1783,
-    "timeMonth": 1763,
+    "timeMonth": 1756,
     "timeYear": 1756,
     "dailyMinutesDown": {
       "2025-02-05": 184,
@@ -56,18 +56,19 @@
     "url": "https://www.unibz.it/health/check",
     "icon": "https://icons.duckduckgo.com/ip3/www.unibz.it.ico",
     "slug": "unibz-it",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2812,
-    "timeDay": 2624,
-    "timeWeek": 2448,
-    "timeMonth": 2702,
-    "timeYear": 2951,
+    "time": 2815,
+    "timeDay": 3366,
+    "timeWeek": 2632,
+    "timeMonth": 2745,
+    "timeYear": 2954,
     "dailyMinutesDown": {
+      "2025-02-20": 0,
       "2024-07-01": 28
     }
   },
@@ -105,7 +106,7 @@
     "uptimeYear": "99.97%",
     "time": 2223,
     "timeDay": 3168,
-    "timeWeek": 2623,
+    "timeWeek": 2627,
     "timeMonth": 2540,
     "timeYear": 2277,
     "dailyMinutesDown": {
