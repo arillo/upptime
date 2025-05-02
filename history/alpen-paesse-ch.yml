@@ -1,7 +1,7 @@
 url: https://alpen-paesse.ch/
-status: up
-code: 200
-responseTime: 3335
-lastUpdated: 2025-05-02T13:56:12.231Z
+status: down
+code: 502
+responseTime: 7756
+lastUpdated: 2025-05-02T14:31:04.479Z
 startTime: 2021-01-25T19:55:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
