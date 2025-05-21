@@ -39,18 +39,19 @@
     "url": "$GITLAB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "97.60%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
-    "time": 1750,
-    "timeDay": 1558,
-    "timeWeek": 1829,
-    "timeMonth": 1773,
-    "timeYear": 1767,
+    "time": 1756,
+    "timeDay": 3519,
+    "timeWeek": 2285,
+    "timeMonth": 1882,
+    "timeYear": 1776,
     "dailyMinutesDown": {
+      "2025-05-21": 0,
       "2025-04-04": 34,
       "2025-03-21": 19,
       "2025-02-28": 21,
@@ -77,7 +78,7 @@
     "timeDay": 1974,
     "timeWeek": 2366,
     "timeMonth": 2391,
-    "timeYear": 2878,
+    "timeYear": 2846,
     "dailyMinutesDown": {
       "2024-07-01": 28
     }
@@ -97,7 +98,7 @@
     "timeDay": 3322,
     "timeWeek": 2665,
     "timeMonth": 2629,
-    "timeYear": 2587,
+    "timeYear": 2595,
     "dailyMinutesDown": {
       "2024-11-25": 17,
       "2024-11-20": 24
