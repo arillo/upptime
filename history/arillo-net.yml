@@ -1,7 +1,7 @@
 url: https://www.arillo.net
-status: up
-code: 200
-responseTime: 969
-lastUpdated: 2025-10-27T23:19:56.953Z
+status: down
+code: 502
+responseTime: 662
+lastUpdated: 2025-10-28T08:52:07.299Z
 startTime: 2021-01-25T19:55:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
